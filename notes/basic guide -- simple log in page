@@ -1,0 +1,10 @@
+basic guide -- simple log in page
+	https://spring.io/guides/gs/securing-web/
+
+JWT example
+	https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/
+
+Better JWT example, but assumes a foundation
+		https://www.baeldung.com/spring-security-oauth-jwt
+	Original in series (3x to get to above)
+		https://www.baeldung.com/rest-api-spring-oauth2-angular
